@@ -5,4 +5,6 @@ This Power BI dashboard provides a comprehensive analysis of bank loan data to m
 
 ## 🚀 Live Preview
 ![bank-loan-dashboard](bank_loan_screenshot.png)
+
+## Using filters
 ![bank-loan-dashboard](bank_loan_screenshot_filters.png)
